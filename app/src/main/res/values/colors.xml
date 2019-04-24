@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dddddd</color>
+    <color name="colorPrimaryDark">#bbbbbb</color>
+    <color name="colorAccent">#209ee6</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#0000ff</color>
+    <color name="dark_grey">#777777</color>
+    <color name="trnasparent_grey">#99cccccc</color>
+    <color name="shadow_color">#cadddddd</color>
+</resources>
